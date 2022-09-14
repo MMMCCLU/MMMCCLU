@@ -46,3 +46,5 @@ I am a computer science student at Clemson University
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMMCCLU&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMMCCLU&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MMMCCLU&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
