@@ -15,17 +15,13 @@
   
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1000" height="300"/>
-</div>
-
 ---
 
 ### :triumph: About Me :
 I am a computer science student at Clemson University
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a terrible dancer
-- 📫 How to reach me: morganmcclure622@gmail.com
+-  Pronouns: He/Him
+-  Fun fact: I am a terrible dancer
+-  How to reach me: morganmcclure622@gmail.com
 
 ---
 
