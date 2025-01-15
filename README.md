@@ -15,7 +15,7 @@
   
 </div>
 
-### :triumph: About Me :
+### About Me :
 I am a computer science student at Clemson University
 -  Pronouns: He/Him
 -  Fun fact: I am a terrible dancer
