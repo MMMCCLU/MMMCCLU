@@ -15,8 +15,6 @@
   
 </div>
 
----
-
 ### :triumph: About Me :
 I am a computer science student at Clemson University
 -  Pronouns: He/Him
